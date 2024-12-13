@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: challenge6-workspace
+  name: challenge5-workspace
 components:
   - name: tools
     container:
